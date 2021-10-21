@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_baseline_wish"
+        android:title="Wishlist" />
+
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        android:title="Scan" />
+    <item
+        android:id="@+id/nav_collection"
+        android:icon="@drawable/ic_baseline_collection"
+        android:title="collection" />
+
+    <item
+        android:id="@+id/nav_pro"
+        android:icon="@drawable/ic_baseline_manage_profile"
+        android:title="profile" />
+</menu>
